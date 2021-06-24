@@ -54,13 +54,15 @@ h4:before {
 
 .prestarter {
   color: white;
+  font-weight: bold;
+/*   font-size: 20px; */
   background: #FF91AA;
   border: 5px solid #ff6185;
   border-radius: 5px;
   padding: 15px;
   margin: 5px;
   width: 100%;
-  text-align: center;
+/*   text-align: center; */
 }
 
 .starter {
